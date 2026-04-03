@@ -1,6 +1,6 @@
 # Agent Weather
 
-## <p align="center">  ⛅  </p>
+# <p align="center">  ⛅  </p>
 
 `Agent Weather` is a Streamlit-based observability console for a single AI agent.
 
