@@ -1,5 +1,7 @@
 # Agent Weather
 
+## <p align="center"> 🤖  </p>
+
 `Agent Weather` is a Streamlit-based observability console for a single AI agent.
 
 Instead of showing only raw logs or pass/fail metrics, it summarizes the current operating condition of the agent as a weather system:
